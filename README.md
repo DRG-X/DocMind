@@ -103,7 +103,7 @@ Save or share chat transcripts and summaries as TXT or PDF.
 ```bash
 # clone
 git clone https://github.com/<DRG-X>/DocMind.git
-cd Chat-with-PDFs
+cd DocMind
 
 # install deps
 pip install -r requirements.txt
