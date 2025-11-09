@@ -10,7 +10,7 @@ DocMind
 
 ## 🧩 Overview
 
-**Chat with PDFs** lets you upload one or multiple PDFs and chat with them — locally, privately, and efficiently.  
+**DocMind** lets you upload one or multiple PDFs and chat with them — locally, privately, and efficiently.  
 It extracts text, chunks and embeds it for vector search, then uses an LLM (local or cloud) to respond with context-aware answers.
 
 Perfect for:
@@ -102,7 +102,7 @@ Save or share chat transcripts and summaries as TXT or PDF.
 
 ```bash
 # clone
-git clone https://github.com/<your-username>/Chat-with-PDFs.git
+git clone https://github.com/<DRG-X>/DocMind.git
 cd Chat-with-PDFs
 
 # install deps
