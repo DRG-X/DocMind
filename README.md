@@ -100,6 +100,10 @@ Save or share chat transcripts and summaries as TXT or PDF.
 🔗 [LinkedIn]((https://www.linkedin.com/in/deepansh-raj-goel-416b77378/))) • [GitHub](https://github.com/DRG-X))
 ## ⚙️ Setup  
 
+## 🎥 Demo
+![DocMind Demo](assets/DocMind_demo.gif)
+
+
 ```bash
 # clone
 git clone https://github.com/<DRG-X>/DocMind.git
